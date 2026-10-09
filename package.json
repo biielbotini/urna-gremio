@@ -1,0 +1,14 @@
+{
+  "name": "urna-escolar",
+  "version": "1.0.0",
+  "description": "Urna eletrônica para eleições escolares, com painel administrativo, resultados, gráficos e impressão.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
